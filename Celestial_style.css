@@ -1,0 +1,19 @@
+body {
+	background-color: gray;
+}
+
+.headline {
+	font-size: 45px;
+	font: bold; 
+	text-align: center;
+}
+
+.sub_headline {
+	font-size: 25px;
+	font-style: italic;
+	text-align: center;
+}
+
+.asteroid_image {
+	padding-left: 400px;
+}
